@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Line 1
 Line 2
 Line 3
 Line 4 after branch 
 
 
+=======
+lINE 1 Main
+Line 2 Main
+>>>>>>> main
